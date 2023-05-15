@@ -1,7 +1,7 @@
 # 💫 About Riz:
 ● I’m currently working on Fintech Product.<br>
 ● I’m currently learning Data Science.<br>
-● Contact me via <a href="https://linkedin.com/in/myselfrizwan" target=”_blank”>LinkedIn</a><br>
+● Contact me via <a href="https://linkedin.com/in/myselfrizwan" target=”_blank”>LinkedIn</a>.<br>
 ● Fun fact: Have a unique ability to turn caffeine into code! With a cup of coffee or tea by your side.
 
 
