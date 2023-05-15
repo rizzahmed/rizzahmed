@@ -1,5 +1,8 @@
-# 💫 About Me:
-🔭 I’m currently working on Fintech Product<br>🌱 I’m currently learning Data Science
+# 💫 About Riz:
+● I’m currently working on Fintech Product<br>
+● I’m currently learning Data Science<br>
+● Contact me via <a href="https://linkedin.com/in/myselfrizwan">LinkedIn</a>
+● Fun fact: Have a unique ability to turn caffeine into code! With a cup of coffee or tea by your side.
 
 
 ## 🌐 Socials:
@@ -18,7 +21,7 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=iamrizahmed)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
----
-[![](https://visitcount.itsvg.in/api?id=rizzahmed&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- --- -->
+<!-- [![](https://visitcount.itsvg.in/api?id=rizzahmed&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
