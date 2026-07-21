@@ -11,16 +11,19 @@ $ stack --core
 Python · JavaScript · TypeScript · React · Angular · Node.js
 AWS · GCP · Docker · Kubernetes
 
+$ open portfolio
+https://rizahmed.netlify.app
+
 $ contact --primary
 LinkedIn: linkedin.com/in/myselfrizwan
 Email: reachout.riz@gmail.com
 ```
 
 ## Social Handles
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/myselfrizwan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/dev.rizahmed)
-[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/rizahmed)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iamrizahmed)
+<a href="https://linkedin.com/in/myselfrizwan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://instagram.com/dev.rizahmed" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://stackoverflow.com/users/21567238/rizahmed" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
+<a href="https://x.com/iamrizahmed" target="_blank"><img src="https://img.shields.io/badge/-000000.svg?style=flat-square&logo=x&logoColor=white" alt="X"></a>
 
 
 ## Tech Stack
@@ -67,5 +70,5 @@ Email: reachout.riz@gmail.com
 ![AWS Certified Developer](https://img.shields.io/badge/AWS%20Certified%20Developer--Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Google Cloud DevOps Engineer](https://img.shields.io/badge/Google%20Cloud%20Professional%20DevOps%20Engineer-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 ## YouTube
-<a href="https://youtube.com/@myselfriz" target="_blank"><img src="https://img.shields.io/badge/RIZ%20AHMED-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+<a href="https://youtube.com/@myselfriz" target="_blank"><img src="https://img.shields.io/badge/Riz%20Ahmed-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
 <br>Content on LeetCode, System Design, and Career Growth. 10K+ subscribers.
