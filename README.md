@@ -29,9 +29,9 @@ LinkedIn: linkedin.com/in/myselfrizwan
 </div>
 
 ## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=rizzahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=rizzahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rizzahmed&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rizzahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rizzahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## Projects
 - **SFR**: Military AI Application *(Award-Winning Project)*
@@ -45,8 +45,3 @@ LinkedIn: linkedin.com/in/myselfrizwan
 ## YouTube
 [![YouTube](https://img.shields.io/badge/RIZ%20AHMED-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@rizahmed)
 <br>Content on LeetCode, System Design, and Career Growth. 10K+ subscribers.
-
-<!-- --- -->
-<!-- [![](https://visitcount.itsvg.in/api?id=rizzahmed&icon=0&color=0)](https://visitcount.itsvg.in) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
